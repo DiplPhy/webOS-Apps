@@ -1,0 +1,12 @@
+{
+	"id": "com.palm.diplphy.gpstoggle",
+	"version": "0.0.2",
+	"vendor": "DiplPhy",
+	"type": "web",
+	"main": "index.html",
+	"title": "GPS Toggle",
+	"icon": "icon.png",
+	"noWindow": "true",
+	"noDeprecatedStyles": "true",
+	"theme": "light"
+}
