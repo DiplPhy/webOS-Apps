@@ -1,0 +1,10 @@
+{
+  "id": "de.diplphy.simplpse",
+  "version": "1.0.0",
+  "vendor": "DiplPhy",
+  "type": "web",
+  "main": "index.html",
+  "title": "Simple PSE",
+  "icon": "images/icon.png",
+  "uiRevision": "2"
+}
